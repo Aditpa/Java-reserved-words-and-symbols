@@ -4,14 +4,14 @@ public class Main {
         char a;
         int b;
         String neno;
-        if;
-        while;
+        long;
+        double;
 
 //        invalid
-        whileing;
-        charing;
-        string;
-        Int;
-        DoUBle;
+        int int;
+        char char;
+        boolean 70;
+        double double;
+        long long;
     }
 }
